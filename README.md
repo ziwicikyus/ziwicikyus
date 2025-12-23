@@ -4,8 +4,6 @@
 
 <h2> 🤳 Connect with me:</h2>
 
-https://www.instagram.com/ziwicikyus/
-
-[https://www.linkedin.com/in/yi%C4%9Fit%C3%A7etin/](https://www.linkedin.com/in/yigitcetinux/)
+[https://www.linkedin.com/in/yigitcentinux/](https://www.linkedin.com/in/yigitcetinux/)
 
 https://www.instagram.com/ziwicikyus/
