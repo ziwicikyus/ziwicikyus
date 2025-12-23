@@ -24,6 +24,8 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
+https://github.com/ziwicikyus/linux-log-analyzer
+
 <h2> 🤳 Connect with me:</h2>
 
 [https://www.linkedin.com/in/yigitcentinux/](https://www.linkedin.com/in/yigitcetinux/)
