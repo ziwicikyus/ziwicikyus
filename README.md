@@ -1,4 +1,4 @@
-<h1>Hi, I'm Yiğit! <br/><a href="https://github.com/ziwicikyus"></a>Currently <a href="[www.linkedin.com/in/yigitcetinux](https://www.linkedin.com/in/yigitcetinux/)">Cybersecurity Analyst in Training</a>,
+<h1>Hi, I'm Yiğit! <br/><a href="https://github.com/ziwicikyus"></a>Currently <a href="https://www.linkedin.com/in/yigitcetinux/">Cybersecurity Analyst in Training</a>,
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
