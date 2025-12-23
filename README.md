@@ -4,8 +4,8 @@
 
 <h2> 🤳 Connect with me:</h2>
 
+https://www.instagram.com/ziwicikyus/
 
-[<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://www.instagram.com/ziwicikyus/" />][instagram]
+[https://www.linkedin.com/in/yi%C4%9Fit%C3%A7etin/](https://www.linkedin.com/in/yigitcetinux/)
 
-
-[<img align="left" alt="yiğitçetin | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+https://www.instagram.com/ziwicikyus/
